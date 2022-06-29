@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1049726216105",
+    "project_id": "pc02-95419",
+    "storage_bucket": "pc02-95419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049726216105:android:0e984b0e1af902cc1106b8",
+        "android_client_info": {
+          "package_name": "com.esan.pc2delsolar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049726216105-e5gafdlascou7ob3ndqid4brcuiikvo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esan.pc2delsolar",
+            "certificate_hash": "498a9a522e84f955582eba733078d87a452ea269"
+          }
+        },
+        {
+          "client_id": "1049726216105-9i6vo0df3ue3rmdtknj18mht8o3p65uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9fYbQRUyh1D4vWvOguq2I7lDNtMnkBeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049726216105-9i6vo0df3ue3rmdtknj18mht8o3p65uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

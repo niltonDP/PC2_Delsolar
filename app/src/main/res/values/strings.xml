@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PC2 Delsolar</string>
+
+    <string name="p1_titulo">INICIAR SESIÓN</string>
+    <string name="p1_btn1">INGRESAR</string>
+    <string name="p1_btn2">CREAR UNA CUENTA</string>
+
+    <string name="p2_titulo">CREAR UNA CUENTA</string>
+    <string name="p2_btn1">REGISTRAR CUENTA</string>
+</resources>
